@@ -1,0 +1,15 @@
+Class: Patrons
+
+Attributes:
+numberInRestaurant (integer)
+hasDietaryRestriction (boolean)
+tipAmountLeft (float)
+serverName (string)
+patronNames (array)
+billTotal (float)
+
+Methods:
+ignorePatrons (reduces tipAmountLeft by 10%)
+changeShift (changes serverName)
+closeRestaurant (changes numberInRestaurant to 0)
+orderFood (increases billTotal by 20)
