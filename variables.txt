@@ -1,0 +1,9 @@
+var food = "Nachos";
+var isNew = true;
+food = "Quiche";
+var num1 = 42;
+var num2 = 24;
+var num3 = num1 * num2;
+var movies = ["The Host", "Parasite", "Snowpiercer", "Mother"];
+movies.pop();
+movies.length;
