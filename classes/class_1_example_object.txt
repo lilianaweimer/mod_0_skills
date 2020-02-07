@@ -1,0 +1,14 @@
+Object: Apple
+
+Attributes:
+color (string): "red"
+areSeedsOnOutside (boolean): false
+isRaw (boolean): true
+numberInKitchen (float): 20
+isWhole (boolean): true
+
+Methods:
+chop: changes isWhole from true to false
+cook: changes isRaw from true to false
+receiveShipment: 20 + 30 = 50
+peel: changes color from "red" to "white"
