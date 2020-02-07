@@ -1,0 +1,15 @@
+Object: Nuclear Family
+
+Attributes:
+numberInRestaurant: 4
+hasDietaryRestriction: true
+tipAmountLeft: 7.75
+serverName: "Linda"
+patronNames: ["Mary", "Mark", "Missy", "Mordecai"]
+billTotal: 55.76
+
+Methods:
+ignorePatrons: reduces tipAmountLeft by 10%, 7.75-(7.75*.10)
+changeShift: changes "Linda" to "Larry"
+closeRestaurant: changes 4 to 0
+orderMoreFood: 55.76 + 20 = 75.76
