@@ -1,0 +1,15 @@
+Class: fruit
+
+Attributes:
+color (string)
+areSeedsOnOutside (boolean)
+isRaw (boolean)
+numberInKitchen (float)
+isWhole (boolean)
+typesOfFruit (array)
+
+Methods:
+chop (changes isWhole from false to true)
+cook (changes isRaw from true to false)
+receiveShipment (increases numberInKitchen by 30)
+peel (changes color string to color of flesh from color of skin)
