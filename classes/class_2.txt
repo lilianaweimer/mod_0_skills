@@ -12,4 +12,4 @@ Methods:
 ignorePatrons (reduces tipAmountLeft by 10%)
 changeShift (changes serverName)
 closeRestaurant (changes numberInRestaurant to 0)
-orderFood (increases billTotal by 20)
+orderMoreFood (increases billTotal by 20)
